@@ -162,7 +162,7 @@ header_menu a:visited {
 .ill_01_01 {
     height: 460px;
 /*    border: 1px solid;*/
-    background-image: url(img/ill_01_1.jpg);
+    background-image: url(../img/ill_01_1.jpg);
     background-size: cover;
     background-position: center;
     margin-bottom: 90px
