@@ -25,7 +25,7 @@ body {
 /*    margin-top: -70px;*/
     width: 100%;
     height: 1150px;
-    background-image:url(img/graphic_bg1.png);
+    background-image:url(../img/graphic_bg1.png);
     background-size: cover;
     position: relative;
 /*    padding-bottom: 200px;*/
@@ -92,7 +92,7 @@ body {
     box-sizing: border-box;
     display: flex; /*프로필 어멈*/
     float: left;
-    background-image: url(img/graphic_03mu.jpg);
+    background-image: url(../img/graphic_03mu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
