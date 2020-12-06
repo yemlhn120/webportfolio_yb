@@ -62,7 +62,7 @@ section {
 /*    border: 2px solid #ffda00;*/
 }
 .sec_main {
-   background-image: url(img/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8_%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png);
+   background-image: url(../img/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8_%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png);
     background-size: cover;
     background-attachment: fixed;
 /*    background-position: center;*/
@@ -267,7 +267,7 @@ section {
     box-sizing: border-box;
     display: flex; /*프로필 어멈*/
     float: left;
-    background-image: url(img/%EC%9B%B9%EB%94%94_%ED%94%84%EB%A1%9C%ED%95%84.png)
+    background-image: url(../img/%EC%9B%B9%EB%94%94_%ED%94%84%EB%A1%9C%ED%95%84.png)
 }
 
 .aboutme_box2 {
@@ -335,7 +335,7 @@ p.mouse {
     height: 800px;
 /*    border: 1px solid;*/
     position: relative;
-    background-image: url(img/웹디_순서.png);
+    background-image: url(../img/웹디_순서.png);
     background-size: cover;
 }
 #sec_portfolio .subtitle {
@@ -412,7 +412,7 @@ box-sizing: border-box;
 /*    border: 1px solid;*/
     position: relative;
 /*    background-color: #fffceb;*/
-/*    background-image: url(img/sec_bg1_%EB%8C%80%EC%A7%80%205.png);*/
+/*    background-image: url(../img/sec_bg1_%EB%8C%80%EC%A7%80%205.png);*/
     background-size: cover;
 }
 .graphic_box {
@@ -540,7 +540,7 @@ box-sizing: border-box;
     width: 100%;
 /*    border: 1px solid;*/
     position: relative;
-/*    background-image: url(img/sec_bg1_%EB%8C%80%EC%A7%80%205%20%EC%82%AC%EB%B3%B8.png);*/
+/*    background-image: url(../img/sec_bg1_%EB%8C%80%EC%A7%80%205%20%EC%82%AC%EB%B3%B8.png);*/
     background-size: cover;
 }
 .sec_editional .subtitle {
@@ -662,7 +662,7 @@ div .editional_02{
     width: 100%;
 /*    border: 1px solid;*/
     position: relative;
-/*     background-image: url(img/sec_bg1_%EB%8C%80%EC%A7%80%205.png);*/
+/*     background-image: url(../img/sec_bg1_%EB%8C%80%EC%A7%80%205.png);*/
     background-size: cover;
 }
 .ill_box {
@@ -886,7 +886,7 @@ div .ill_02{
 }
 #sec_fin {
     height: 900px;
-    background-image: url(/img/sec_fin-03.png);
+    background-image: url(../img/sec_fin-03.png);
     background-size: cover;
     border-top: 1px solid white;
 }
